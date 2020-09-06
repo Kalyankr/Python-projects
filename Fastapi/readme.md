@@ -1,4 +1,4 @@
-## Deploying ML model woith FASTAPI
+## Deploying ML model with FASTAPI
 
 # Its simple and similar to Flask with additioanl benifits 
 1. Data Validation
